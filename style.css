@@ -28,3 +28,19 @@
 img {
   width: 300px;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 20px auto;
+}
+input,
+button {
+  margin: 5px 0;
+  padding: 10px;
+}
+#message {
+  margin-top: 10px;
+  font-size: 16px;
+}
