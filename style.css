@@ -1,0 +1,30 @@
+#addContent {
+  width: 400px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.place {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+#articles {
+  width: 400px;
+  display: flex;
+  border: 1px solid black;
+  flex-direction: column;
+  align-items: center;
+}
+
+.anotherNew {
+  width: 300px;
+  border: 1px solid rgb(126, 126, 126);
+  margin-bottom: 20px;
+}
+
+img {
+  width: 300px;
+}
